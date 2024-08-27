@@ -1,0 +1,47 @@
+
+/* Light theme styles */
+.navbar-light {
+  background-color: #dcddde !important;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .nav-link,
+.navbar-light .btn {
+  color: #000;
+}
+
+/* Dark theme styles */
+.navbar-dark {
+  background-color: #343a40 !important;
+}
+
+.navbar-dark .navbar-brand,
+.navbar-dark .nav-link,
+.navbar-dark .btn {
+  color: #fff;
+}
+
+/* Button styles */
+.btn-light {
+  background-color: #f8f9fa;
+  color: #000;
+}
+
+.btn-dark {
+  background-color: #343a40;
+  color: #fff;
+}
+
+
+/* Light theme card background */
+.card-light {
+  background-color: #343a40 !important; /* Dark grey */
+  color: #fff;
+}
+
+/* Dark theme card background */
+.card-dark {
+  background-color: #f8f9fa !important; /* Light grey */
+  color: #000;
+}
+
