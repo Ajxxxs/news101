@@ -1,1 +1,1 @@
-news application created with react calling new api and much more.
+news application created with react calling news api and much more.
